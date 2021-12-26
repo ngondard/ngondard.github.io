@@ -1,13 +1,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Nicolas G.
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: nicolas.gondard@mines-nancy.org
+phone: + soon
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Nicolas <br> Product Owner
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,7 +51,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As a Product Owner, I represent the business in IT projets. I have à reasonable command of several economical fields, such as energy, telecom, media. Besides, I have been working abroad from 1993 till 1997.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -95,14 +94,14 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Project Management, color: '#fdb157', value: '70%'}
+- {name: Agile, color: '#9473e6', value: '60%'}
+- {name: User Acceptance Test, color: '#bdecf6', value: '60%'}
+- {name: Web Development, color: '#ffbcaa', value: '30%'}
 
 
 #-------------------------------
-# Exprerience Section
+# Experience Section
 
 experience-title: Experience
 experience:
@@ -116,31 +115,31 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Ingénieur Civil des Mines, date: '1993', organization: 'Ecole des Mines de Nancy'}
+- {name: Master in Civil and Mining Engineering, date: '1993', organization: 'Ecole des Mines de Nancy'}
+- {name: Classes prépa, date: '1990', organization: 'Lycée Louis le Grand'}
+- {name: Baccalauréat, date: '1987', organization: 'Lycée Marceau'}
 
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Skills
 services:
 - {
-    name: UI Design,
+    name: Project Management,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Agile methodology,
     icon: ti-vector,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: User Acceptance Tests,
     icon: ti-panel,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
@@ -293,4 +292,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: Nicolas.gondard@mines-nancy.org
