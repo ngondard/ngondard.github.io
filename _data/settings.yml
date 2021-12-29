@@ -3,15 +3,15 @@
 
 title: Nicolas Gondard
 logo: 
-author: themefisher
-description: this is meta description
+author: Nicolas Gondard
+description: Nicolas Gondard's website
 email: nicolas.gondard@mines-nancy.org
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Content Copyright &copy; 2021 Nicolas Gondard Design Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+#- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -50,7 +50,7 @@ social:
 
 # About Section
 blurb:
-  As a Product Owner, I represent the business in IT projets. I have a reasonable command of several economical fields, such as energy, telecom, media. Besides, I have been working abroad from 1993 till 1997.
+  As a Product Owner, I represent the business in IT projects. I have a reasonable command of several economical fields, such as energy, telecom, media. Besides, I have been working abroad from 1993 till 1997.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -62,7 +62,7 @@ blurb-btn-name: know more
 work-process:
   - title : "Analyse and describe"
     icon : "assets/images/icons/plan.png"
-    content : "During this stage, I lead interviews with the business and write the project's grounds."
+    content : "During this stage, I lead interviews with the business and build the project's grounds."
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
@@ -89,9 +89,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: oil industry, icon: 'icon-1.png', date: '1993 - 1999', organization: 'Total, Schlumberger'}
+- {name: energy, icon: 'icon-2.png', date: '2003 - 2011', organization: 'Orano group'}
+- {name: media, icon: 'icon-3.png', date: '2001 - 2002 and since 2011', organization: 'mainly Argus de la Presse'}
 
 
 #-------------------------------
@@ -108,114 +108,26 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Skills
+services-title: Misc
 services:
 - {
-    name: Project Management,
+    name: Intercultural awareness,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Each of us has a unique background, either cultural or job-oriented. When I talk or I write to somebody, I take special care of this, thanks to my life abroad!',
     active: # Add true to select section
   }
 - {
-    name: Agile methodology,
+    name: Community work,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'I volunteered in a holiday camp for disabled persons.',
     active: true # Add true to select section
   }
 - {
-    name: User Acceptance Tests,
+    name: Oldies,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'I am keen on old cars / bikes /radios.',
     active: # Add true to select section
   }
-
-
-
-#-------------------------------
-# Portfolio (Section and Page)
-
-# Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-
-
-# Portfolio Page
-portfolio-label:
-- {
-    title : "UI/UX Design",
-    type : "design"
-  }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
-
-portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 
 #-------------------------------
