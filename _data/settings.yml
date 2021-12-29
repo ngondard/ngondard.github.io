@@ -1,12 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Nicolas G.
+title: Nicolas Gondard
 logo: 
 author: themefisher
 description: this is meta description
 email: nicolas.gondard@mines-nancy.org
-phone: + soon
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -37,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Nicolas <br>, Product Owner
+  hero-title: Hi! I’m <br>Nicolas,<br> Product Owner
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -51,7 +50,7 @@ social:
 
 # About Section
 blurb:
-  As a Product Owner, I represent the business in IT projets. I have à reasonable command of several economical fields, such as energy, telecom, media. Besides, I have been working abroad from 1993 till 1997.
+  As a Product Owner, I represent the business in IT projets. I have a reasonable command of several economical fields, such as energy, telecom, media. Besides, I have been working abroad from 1993 till 1997.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -61,32 +60,17 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
+  - title : "Analyse and describe"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "During this stage, I lead interviews with the business and write the project's grounds."
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "While liaising with the development team, for instance in daily meetings, I follow the project up. I take the relevant actions, such as letting the operation team knwo of the technical requirements."
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
-# My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    content : "I set up the user acceptance tests. When ready, I liaise with the business and the operations teams to schedule the production release."
 
 
 #-------------------------------
@@ -232,26 +216,6 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "illustration"
-
-
-#-------------------------------
-# Testimonials Section
-
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 
 #-------------------------------
