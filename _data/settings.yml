@@ -7,6 +7,8 @@ author: Nicolas Gondard
 description: Nicolas Gondard's website
 email: nicolas.gondard@mines-nancy.org
 copyright: Content Copyright &copy; 2021 Nicolas Gondard Design Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+address: GitHub B.V., <br>Vijzelstraat 68-72,<br>1017 HL Amsterdam,<br> Pays-Bas
+phone: +45 71 44 53 25
 
 menu:
 - {name: About, link: '/about'}
@@ -66,7 +68,7 @@ work-process:
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "While liaising with the development team, for instance in daily meetings, I follow the project up. I take the relevant actions, such as letting the operation team knwo of the technical requirements."
+    content : "While liaising with the development team, for instance in daily meetings, I follow the project up. I take the relevant actions, such as letting the operation team know of the technical requirements."
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
