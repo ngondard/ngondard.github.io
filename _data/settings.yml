@@ -6,7 +6,7 @@ logo:
 author: Nicolas Gondard
 description: Nicolas Gondard's website
 email: nicolas.gondard@mines-nancy.org
-copyright: Content Copyright &copy; 2021 Nicolas Gondard Design Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Content Copyright &copy; 2021 [Nicolas Gondard](.) Design Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 address: GitHub B.V., <br>Vijzelstraat 68-72,<br>1017 HL Amsterdam,<br> Pays-Bas
 phone: +45 71 44 53 25
 
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  As a Product Owner, I represent the business in IT projects. I have a reasonable command of several economical fields, such as energy, telecom, media. Besides, I have been working abroad from 1993 till 1997.
+  As a Product Owner, I represent the business in IT projects. I have a reasonable command of several economical fields, such as energy, telecom, media. Besides, I used to work abroad (Chile, Yemen, Thailand, Nigeria) between 1993 and 1997.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -92,8 +92,8 @@ skills:
 experience-title: Experience
 experience:
 - {name: oil industry, icon: 'icon-1.png', date: '1993 - 1999', organization: 'Total, Schlumberger'}
-- {name: energy, icon: 'icon-2.png', date: '2003 - 2011', organization: 'Orano group'}
-- {name: media, icon: 'icon-3.png', date: '2001 - 2002 and since 2011', organization: 'mainly Argus de la Presse'}
+- {name: energy, icon: 'icon-2.png', date: '2004 - 2011', organization: 'Orano group'}
+- {name: media/com, icon: 'icon-3.png', date: '2002 - 2003 and since 2011', organization: 'mainly Argus de la Presse'}
 
 
 #-------------------------------
@@ -102,9 +102,9 @@ experience:
 education-title: Education
 education:
 - {name: Ingénieur Civil des Mines, date: '1993', organization: 'Ecole des Mines de Nancy'}
-- {name: Master in Civil and Mining Engineering, date: '1993', organization: 'Ecole des Mines de Nancy'}
+- {name: Master (DEA) in Civil and Mining Engineering, date: '1993', organization: 'Ecole des Mines de Nancy'}
 - {name: Classes prépa, date: '1990', organization: 'Lycée Louis le Grand'}
-- {name: Baccalauréat, date: '1987', organization: 'Lycée Marceau'}
+- {name: Baccalauréat C Mention Très Bien, date: '1987', organization: 'Lycée Marceau'}
 
 
 #-------------------------------
@@ -121,13 +121,13 @@ services:
 - {
     name: Community work,
     icon: ti-vector,
-    description: 'I volunteered in a holiday camp for disabled persons.',
+    description: 'I volunteered as an health assistant during an holiday camp for disabled persons.',
     active: true # Add true to select section
   }
 - {
     name: Oldies,
     icon: ti-panel,
-    description: 'I am keen on old cars / bikes /radios.',
+    description: 'I am keen on old car / bike /radio design.',
     active: # Add true to select section
   }
 
