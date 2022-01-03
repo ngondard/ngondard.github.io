@@ -41,11 +41,8 @@ hero:
   hero-title: Hi! I’m <br>Nicolas,<br> Product Owner
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
-
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/ngondard/"}
+- {icon: "ti-github", link: "https://github.com/ngondard"}
 
 #-------------------------------
 # About (Section and Page)
@@ -170,4 +167,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: Nicolas.gondard At mines-nancy.org
+contact-email: nicolas.gondard@mines-nancy.org
