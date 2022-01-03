@@ -33,3 +33,9 @@ exclude:
   - LICENSE.text
   - README.md
   - SECURITY.md
+
+social:
+  name: Nicolas Gondard
+  links:
+    - https://www.linkedin.com/in/ngondard
+    - https://github.com/ngondard

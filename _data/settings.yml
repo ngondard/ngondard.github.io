@@ -134,34 +134,34 @@ services:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+    url: "https://www.enami.cl"
     
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+    url: "https://totalenergies.com"
     
   - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+    url: "https://www.slb.com/"
     
   - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+    url: "https://www.orano.group/"
     
   - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+    url: "https://www.cision.com"
     
   - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+    url: "https://www.enami.cl"
     
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+    url: "https://totalenergies.com"
     
   - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+    url: "https://www.slb.com/"
     
   - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+    url: "https://www.orano.group/"
     
   - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+    url: "https://www.cision.com"
 
 #-------------------------------
 # Contact Section
