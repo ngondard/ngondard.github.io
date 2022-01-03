@@ -5,7 +5,7 @@ title: Nicolas Gondard
 logo: 
 author: Nicolas Gondard
 description: Nicolas Gondard's website
-email: nicolas.gondard@mines-nancy.org
+email: nicolas.gondard At mines-nancy.org
 copyright: Content Copyright &copy; 2021 [Nicolas Gondard](.) Design Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 address: GitHub B.V., <br>Vijzelstraat 68-72,<br>1017 HL Amsterdam,<br> Pays-Bas
 phone: +45 71 44 53 25
@@ -81,9 +81,9 @@ work-process:
 skills-title: Skills
 skills:
 - {name: Project Management, color: '#fdb157', value: '70%'}
-- {name: Agile, color: '#9473e6', value: '60%'}
-- {name: User Acceptance Test, color: '#bdecf6', value: '60%'}
-- {name: Web Development, color: '#ffbcaa', value: '30%'}
+- {name: User Acceptance Test, color: '#9473e6', value: '60%'}
+- {name: Search engine, color: '#bdecf6', value: '50%'}
+- {name: Web Development, color: '#ffbcaa', value: '20%'}
 
 
 #-------------------------------
@@ -170,4 +170,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: Nicolas.gondard@mines-nancy.org
+contact-email: Nicolas.gondard At mines-nancy.org
