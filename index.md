@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Stratégies digitales 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Boîte à Sucre](/pdf/La_boîte_à_sucre.pdf)
+<img src="images/miniature_Boîte_à_Sucre.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Modèle de page dérivé du dépôt <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
