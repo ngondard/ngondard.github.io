@@ -4,8 +4,8 @@
 
 ### Stratégies digitales 
 
-[Boîte à Sucre](/pdf/La_boîte_à_sucre.pdf)
-<img src="images/miniature_Boîte_à_Sucre.png?raw=true"/>
+[Boîte à Sucre](/pdf/strat_Boîte_à_Sucre.pdf)
+<img src="images/strat_Boîte_à_Sucre.png?raw=true"/>
 
 ---
 
