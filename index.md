@@ -4,7 +4,8 @@
 
 - [Stratégies digitales](#stratégies-digitales-)
   - [trends TikTok](#strat-trends)  
-  - [Equisafe](#strat-equisafe) 
+  - [Equisafe](#strat-equisafe)
+  - [copywriting vêtements vegan](#strat-copywriting)  
   - [Boîte à Sucre](#strat-boite-a-sucre)
   - [boisson énergisante](#strat-boisson-energisante) 
 - [Audits](#audits)
@@ -19,6 +20,11 @@
 
 - <a name="strat-equisafe"></a>[Equisafe](/pdf/strat_Equisafe.pdf)
 <img src="images/strat_Equisafe.png?raw=true" alt="stratégie Equisafe"/>
+
+[retour au sommaire](#sommaire)
+
+- <a name="strat-copywriting"></a>[copywriting vêtements vegan](/pdf/strat_vegan.pdf)
+<img src="images/strat_vegan.png?raw=true" alt="copywriting vêtements vegan"/>
 
 [retour au sommaire](#sommaire)
 
