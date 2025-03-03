@@ -3,6 +3,7 @@
 ## Sommaire
 
 - [Stratégies digitales](#stratégies-digitales-)
+  - [Equisafe](#strat-equisafe) 
   - [Boîte à Sucre](#strat-boite-a-sucre)
   - [boisson énergisante](#strat-boisson-energisante) 
 - [Audits](#audits)
@@ -10,6 +11,10 @@
   - [marque de lingerie](#audit-marque-lingerie) 
 
 ## Stratégies digitales 
+- <a name="strat-equisafe"></a>[Equisafe](/pdf/strat_Equisafe.pdf)
+<img src="images/strat_Equisafe.png?raw=true" alt="stratégie Equisafe"/>
+
+[retour au sommaire](#sommaire)
 
 - <a name="strat-boite-a-sucre"></a>[Boîte à Sucre](/pdf/strat_Boîte_à_Sucre.pdf)
 <img src="images/strat_Boîte_à_Sucre.png?raw=true" alt="stratégie Boîte à Sucre"/>
@@ -28,7 +33,7 @@
 
 [retour au sommaire](#sommaire)
 
-- <a name="audit-marque-lingerie"></a>marque de lingerie (pas de fichier associé)
+- <a name="audit-marque-lingerie"></a>[marque de lingerie](/pdf/audit_lingerie.pdf)
 <img src="images/audit_lingerie.png?raw=true" alt="audit marque de lingerie"/>
 
 [retour au sommaire](#sommaire)
