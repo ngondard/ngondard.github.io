@@ -3,6 +3,7 @@
 ## Sommaire
 
 - [Stratégies digitales](#stratégies-digitales-)
+  - [trends TikTok](#strat-trends)  
   - [Equisafe](#strat-equisafe) 
   - [Boîte à Sucre](#strat-boite-a-sucre)
   - [boisson énergisante](#strat-boisson-energisante) 
@@ -11,6 +12,11 @@
   - [marque de lingerie](#audit-marque-lingerie) 
 
 ## Stratégies digitales 
+- <a name="strat-trends"></a>[trends TikTok](/pdf/strat_trends_Tiktok.pdf)
+<img src="images/strat_trends_Tiktok.png?raw=true" alt="trends TikTok"/>
+
+[retour au sommaire](#sommaire)
+
 - <a name="strat-equisafe"></a>[Equisafe](/pdf/strat_Equisafe.pdf)
 <img src="images/strat_Equisafe.png?raw=true" alt="stratégie Equisafe"/>
 
