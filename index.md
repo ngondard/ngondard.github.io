@@ -11,7 +11,10 @@
   - [boisson énergisante](#strat-boisson-energisante) 
 - [Audits](#audits)
   - [radios vintage](#audit-radios-vintage)
-  - [marque de lingerie](#audit-marque-lingerie) 
+  - [marque de lingerie](#audit-marque-lingerie)
+- [Veilles](#veilles)
+  - [resort](#veille-resort)
+ 
 
 ## Stratégies digitales 
 - <a name="strat-trends"></a>[trends TikTok](/pdf/strat_trends_Tiktok.pdf)
@@ -53,6 +56,13 @@
 
 - <a name="audit-marque-lingerie"></a>[marque de lingerie](/pdf/audit_lingerie.pdf)
 <img src="images/audit_lingerie.png?raw=true" alt="audit marque de lingerie"/>
+
+[retour au sommaire](#sommaire)
+
+## Veilles
+
+- <a name="veille-resort"></a>[resort](/pdf/veille_resort.pdf)
+<img src="images/veille_resort.png?raw=true" alt="veille resort"/>
 
 [retour au sommaire](#sommaire)
 
