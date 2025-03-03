@@ -7,6 +7,7 @@
   - [Equisafe](#strat-equisafe)
   - [copywriting vêtements vegan](#strat-copywriting)  
   - [Boîte à Sucre](#strat-boite-a-sucre)
+  - [TV sur Twitch](#strat-tv-twitch)
   - [boisson énergisante](#strat-boisson-energisante) 
 - [Audits](#audits)
   - [radios vintage](#audit-radios-vintage)
@@ -30,6 +31,11 @@
 
 - <a name="strat-boite-a-sucre"></a>[Boîte à Sucre](/pdf/strat_Boîte_à_Sucre.pdf)
 <img src="images/strat_Boîte_à_Sucre.png?raw=true" alt="stratégie Boîte à Sucre"/>
+
+[retour au sommaire](#sommaire)
+
+- <a name="strat-tv-twitch"></a>[TV sur Twitch](/pdf/strat_Twitch_tv.pdf)
+<img src="images/strat_Twitch_tv.png?raw=true" alt="stratégie TV sur Twitch"/>
 
 [retour au sommaire](#sommaire)
 
