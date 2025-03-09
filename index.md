@@ -2,6 +2,8 @@
 
 ## Sommaire
 
+- [Conversions](#conversions)
+  - [page d'accueil + livre blanc](#livre-blanc) 
 - [Stratégies digitales](#stratégies-digitales-)
   - [trends TikTok](#strat-trends)  
   - [Equisafe](#strat-equisafe)
@@ -15,6 +17,10 @@
 - [Veilles](#veilles)
   - [resort](#veille-resort)
  
+## Conversions
+- <a name="livre-blanc"></a>[page d'accueil + livre blanc (cas d'étude)](https://montag.nard.ca/livre-blanc)
+
+[retour au sommaire](#sommaire)
 
 ## Stratégies digitales 
 - <a name="strat-trends"></a>[trends TikTok](/pdf/strat_trends_Tiktok.pdf)
