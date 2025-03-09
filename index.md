@@ -19,6 +19,7 @@
  
 ## Conversions
 - <a name="livre-blanc"></a>[page d'accueil + livre blanc (cas d'étude)](https://montag.nard.ca/livre-blanc)
+<img src="images/strat_vasselle_landing_page.png?raw=true" alt="landing page"/>
 
 [retour au sommaire](#sommaire)
 
