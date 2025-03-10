@@ -8,7 +8,7 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       
-      gtag('config', '{{ site.google_analytics }}');
+      gtag('config', '{{ site.google_analytics }}', { 'anonymize_ip': true });
    </script>
    {% endif %}
    <meta charset="UTF-8">
@@ -53,5 +53,6 @@
       </footer>
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+   {% include cookie-consent.html %}   
 </body>
 </html>
