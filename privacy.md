@@ -44,4 +44,4 @@ Vous pouvez exercer ces droits en utilisant les paramètres de votre navigateur 
 
 Nous nous réservons le droit de modifier cette politique à tout moment. Toute mise à jour sera publiée sur cette page avec la date de mise à jour.
 
-**Dernière mise à jour : [date]**
+**Dernière mise à jour : {{ "now" | date: "%B %e, %Y"}}**
